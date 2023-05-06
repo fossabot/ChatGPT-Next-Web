@@ -18,6 +18,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
 
 ![cover](./docs/images/cover.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwenyurush%2FChatGPT-Next-Web.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwenyurush%2FChatGPT-Next-Web?ref=badge_shield)
 
 </div>
 
@@ -263,3 +264,6 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 ## LICENSE
 
 [Anti 996 License](https://github.com/kattgu7/Anti-996-License/blob/master/LICENSE_CN_EN)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwenyurush%2FChatGPT-Next-Web.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwenyurush%2FChatGPT-Next-Web?ref=badge_large)
